@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.estateyield</groupId>
-	<artifactId>finance-service-1</artifactId>
+	<artifactId>finance-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>finance-service-1</name>
-	<description>finance service for esateyield</description>
+	<name>finance-service</name>
+	<description>finance service for estateyield</description>
 	<url/>
 	<licenses>
 		<license/>
